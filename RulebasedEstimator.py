@@ -5,6 +5,8 @@ Created on Tue Sep 17 16:27:50 2019
 
 @author: elfiakibv
 """
+#implements a keyword matching baseline rule-based system using dialog acts
+#later to be used as point of reference for the performance of a machine learning classifier
 
 import numpy as np
 
